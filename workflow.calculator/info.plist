@@ -70,21 +70,6 @@
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>tasksettings</key>
-				<dict/>
-				<key>taskuid</key>
-				<string>com.alfredapp.automation.core/appearance/dark-mode.status</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.automation.task</string>
-			<key>uid</key>
-			<string>F2FCA574-F1D9-43E0-B408-80D8C33037FA</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -93,14 +78,7 @@
 		<key>6A85AF72-D746-4833-B630-F132BD9DC00D</key>
 		<dict>
 			<key>xpos</key>
-			<real>60</real>
-			<key>ypos</key>
-			<real>145</real>
-		</dict>
-		<key>F2FCA574-F1D9-43E0-B408-80D8C33037FA</key>
-		<dict>
-			<key>xpos</key>
-			<real>315</real>
+			<real>80</real>
 			<key>ypos</key>
 			<real>185</real>
 		</dict>

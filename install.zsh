@@ -8,10 +8,16 @@ WORKFLOWS_DIR="$HOME/Library/Application Support/Alfred/Alfred.alfredpreferences
 mkdir -p "$WORKFLOWS_DIR"
 
 for wf in "$SCRIPT_DIR"/workflow.*(N/); do
-  src="$(cd "$wf" && pwd)"
-  dst="$WORKFLOWS_DIR/$(basename "$wf")"
+  plist="$wf/info.plist"
+  [[ -f "$plist" ]] || continue
 
-  # Do not link into itself or its children
+  bundleid="$(/usr/libexec/PlistBuddy -c 'Print :bundleid' "$plist" 2>/dev/null)"
+  [[ -n "$bundleid" ]] || continue
+
+  src="$(cd "$wf" && pwd)"
+  dst="$WORKFLOWS_DIR/$bundleid"
+
+  # Never link into itself
   [[ "$dst" == "$src" || "$dst" == "$src"/* ]] && continue
 
   ln -sfn "$src" "$dst"
