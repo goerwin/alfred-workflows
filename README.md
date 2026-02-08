@@ -10,3 +10,5 @@ If you are receiving errors due to a sync folder path issue, it's probably due t
 ```sh
 ~/Library/Application Support/Alfred/prefs.json
 ```
+
+After that, you must restart Alfred (via Alfred Preferences -> General)
