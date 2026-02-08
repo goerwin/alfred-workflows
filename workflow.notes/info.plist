@@ -173,7 +173,7 @@
 				<key>runningsubtext</key>
 				<string>Loading...</string>
 				<key>script</key>
-				<string>node dist/sfItems.js "$1"</string>
+				<string>node sfItems.ts "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>

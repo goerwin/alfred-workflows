@@ -1,5 +1,6 @@
 {
   "name": "alfred-notes",
+  "type": "module",
   "version": "1.0.0",
   "description": "Manage and sync notes with your editor",
   "homepage": "https://github.com/goerwin/alfred-notes",

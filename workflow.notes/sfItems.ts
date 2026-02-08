@@ -1,16 +1,6 @@
-import fs from 'fs';
-import path from 'path';
-import { outputAlfredItems } from './helpers';
-
-export type AlfredListItem = {
-  title: string;
-  subtitle?: string;
-  arg?: string;
-  variables: {
-    action?: string;
-    noteFilePath: string;
-  };
-};
+import fs from 'node:fs';
+import path from 'node:path';
+import { type AlfredListItem, outputAlfredItems } from './helpers.ts';
 
 const defaultNoteFilename = process.env.defaultNoteFilename;
 const notesFolderPath = process.env.notesFolderPath;
