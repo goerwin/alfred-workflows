@@ -1,0 +1,212 @@
+{
+  "alarmReminderInMins": 1,
+  "maxItems": 50,
+  "items": [
+    {
+      "id": "38c3684d-d016-4297-bab6-d2012989930d",
+      "title": "dedo",
+      "createdAt": "2025-02-10T04:16:08.140Z",
+      "pid": 49039,
+      "type": "timer",
+      "status": "inactive",
+      "minutes": 2
+    },
+    {
+      "id": "a15f329d-ac56-4e07-a747-2602a8eab5d8",
+      "title": "Alarm",
+      "createdAt": "2025-02-10T04:15:49.341Z",
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 15,
+      "isoMinutes": 0
+    },
+    {
+      "id": "8bf8a1e2-914e-4b59-b74a-b069dcb33f50",
+      "title": "Daily",
+      "createdAt": "2024-05-24T03:38:18.923Z",
+      "type": "alarmRepeat",
+      "status": "inactive",
+      "isoHours": 13,
+      "isoMinutes": 35,
+      "isoWeekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "bcd7f72e-d78a-4215-83a6-719eb4147490",
+      "title": "Alarm",
+      "createdAt": "2023-10-23T17:42:55.900Z",
+      "pid": 99166,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 19,
+      "isoMinutes": 0
+    },
+    {
+      "id": "f98b8d33-e41e-4f3c-9c35-5a1a86967255",
+      "title": "Timer",
+      "createdAt": "2023-10-16T00:13:26.045Z",
+      "pid": 14349,
+      "type": "timer",
+      "status": "inactive",
+      "minutes": 15
+    },
+    {
+      "id": "846159e0-31c8-4b8c-8101-4a9ae63f4f0a",
+      "title": "Alarm",
+      "createdAt": "2023-10-12T16:01:05.127Z",
+      "pid": 57462,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 18,
+      "isoMinutes": 30
+    },
+    {
+      "id": "23aadc5f-fbb3-4e2a-9fc0-d1883d235846",
+      "title": "Alarm",
+      "createdAt": "2023-10-12T15:38:58.299Z",
+      "pid": 54290,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 17,
+      "isoMinutes": 0
+    },
+    {
+      "id": "f4afba54-7c7d-452c-97c3-30c8ce8fdae6",
+      "title": "Alarm",
+      "createdAt": "2023-10-11T16:26:03.821Z",
+      "pid": 84218,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 17,
+      "isoMinutes": 30
+    },
+    {
+      "id": "e77cd56f-ff10-49fb-942f-70051116d778",
+      "title": "Alarm",
+      "createdAt": "2023-10-10T05:34:21.137Z",
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 23,
+      "isoMinutes": 0
+    },
+    {
+      "id": "73e7fe07-7f1f-4b67-88cd-abe88c0b5168",
+      "title": "Alarm",
+      "createdAt": "2023-10-09T15:04:12.304Z",
+      "pid": 48673,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 16,
+      "isoMinutes": 0
+    },
+    {
+      "id": "4f181960-3360-47e7-8b2b-95273d1c2b26",
+      "title": "Alarm",
+      "createdAt": "2023-10-06T11:46:48.375Z",
+      "pid": 50652,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 14,
+      "isoMinutes": 0
+    },
+    {
+      "id": "8e0d7a93-4a9c-4646-9597-33baf0b674bc",
+      "title": "Alarm",
+      "createdAt": "2023-10-02T19:46:17.793Z",
+      "pid": 33519,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 19,
+      "isoMinutes": 30
+    },
+    {
+      "id": "5fe96748-e5bb-4192-a91a-acc2b4d59eb9",
+      "title": "Alarm",
+      "createdAt": "2023-09-28T16:01:21.471Z",
+      "pid": 57863,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 16,
+      "isoMinutes": 30
+    },
+    {
+      "id": "040a9a07-110e-4638-bfca-491a04ce4faf",
+      "title": "Alarm",
+      "createdAt": "2023-09-27T01:59:24.385Z",
+      "pid": 78776,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 14,
+      "isoMinutes": 30
+    },
+    {
+      "id": "b49115ec-4103-481a-8e28-71e79c26dbf4",
+      "title": "Alarm",
+      "createdAt": "2023-09-21T16:17:42.435Z",
+      "pid": 57751,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 20,
+      "isoMinutes": 30
+    },
+    {
+      "id": "d00b18eb-8381-43f0-85c4-06898957f994",
+      "title": "Alarm",
+      "createdAt": "2023-09-13T15:53:01.043Z",
+      "pid": 37263,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 18,
+      "isoMinutes": 0
+    },
+    {
+      "id": "f79d8496-4412-439a-932c-7c6134fd010d",
+      "title": "Alarm",
+      "createdAt": "2023-07-12T15:29:20.438Z",
+      "pid": 83056,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 20,
+      "isoMinutes": 0
+    },
+    {
+      "id": "35a085fa-e599-4caa-89db-6f3ae57eb641",
+      "title": "Alarm",
+      "createdAt": "2023-06-15T18:22:17.333Z",
+      "pid": 82087,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 21,
+      "isoMinutes": 0
+    },
+    {
+      "id": "284f47fe-87c0-4866-afe7-b23f679f6022",
+      "title": "Alarm",
+      "createdAt": "2023-04-13T17:12:24.901Z",
+      "pid": 25098,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 13,
+      "isoMinutes": 30
+    },
+    {
+      "id": "640387d6-97ed-4014-bdfa-a7ef41019e60",
+      "title": "Alarm",
+      "createdAt": "2023-02-23T14:59:11.738Z",
+      "pid": 10922,
+      "type": "alarmOneTime",
+      "status": "inactive",
+      "isoHours": 15,
+      "isoMinutes": 30
+    }
+  ],
+  "bgProcess": {
+    "pid": 4520,
+    "createdAt": "2026-01-16T21:34:28.713Z"
+  }
+}
