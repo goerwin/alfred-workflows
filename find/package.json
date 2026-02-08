@@ -1,0 +1,11 @@
+{
+  "name": "find",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^25.0.7",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "globby": "^16.1.0"
+  }
+}

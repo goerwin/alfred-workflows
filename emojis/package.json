@@ -1,0 +1,11 @@
+{
+  "name": "emojis",
+  "type": "module",
+  "dependencies": {
+    "twemoji": "^14.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.7",
+    "typescript": "^5.9.3"
+  }
+}

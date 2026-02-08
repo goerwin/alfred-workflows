@@ -1,0 +1,16 @@
+{
+  "name": "user.workflow.b86bef12-45fd-4ab1-af64-750a2a59937c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "shelljs": "^0.8.5"
+  }
+}
