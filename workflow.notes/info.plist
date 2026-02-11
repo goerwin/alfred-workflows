@@ -327,9 +327,9 @@ printf "%b\n" "$query"</string>
 		<key>D060735C-3DA9-4CD0-A082-965713F92816</key>
 		<dict>
 			<key>xpos</key>
-			<real>110</real>
+			<real>105</real>
 			<key>ypos</key>
-			<real>250</real>
+			<real>235</real>
 		</dict>
 		<key>DDCA4683-5844-4934-AAFE-73D7CAC09CF8</key>
 		<dict>
