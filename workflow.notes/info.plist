@@ -297,7 +297,7 @@ printf "%b\n" "$query"</string>
 		<key>324A8A9A-5AC8-4B5E-A368-99FC7BA662CD</key>
 		<dict>
 			<key>note</key>
-			<string>Always open the notes folder first in VS Code, so that when a note file is opened, it will open it in the same window</string>
+			<string>Always open the notes folder first in the Editor, so that when a note file is opened, it will be opened it in the same window</string>
 			<key>xpos</key>
 			<real>500</real>
 			<key>ypos</key>
